@@ -128,10 +128,22 @@
       <br>Docker
     </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" height="48" alt="slack" />
+      <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" width="48" height="48" alt="slack" />
       <br>Slack
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" width="auto" height="48" alt="stripe" />
+      <br>Stripe
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="48" height="48" alt="circleci" />
+      <br>Circle CI
+    </td>
+     <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="jest" />
+      <br>Jest
     </td>
   </tr>
 </table>
