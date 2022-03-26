@@ -58,10 +58,6 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
       <br>Firebase
     </td>
