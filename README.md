@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=kuroro-31&include_all_commits=true&count_private=true&theme=react&show_icons=ture" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroro-31&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=react" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=kuroro-31&include_all_commits=true&count_private=true&theme=omni&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuroro-31&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=omni" />
 </p>
 
 <h3 align="center">Languages</h3>
